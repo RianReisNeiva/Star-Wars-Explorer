@@ -143,4 +143,7 @@
     .back-button img{
         display: none;
     }
+    p{
+        font-size: 10px;
+    }
 }
