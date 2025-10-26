@@ -143,7 +143,7 @@
     .back-button img{
         display: none;
     }
-    p{
+    .neon-card p{
         font-size: 10px;
     }
 }
