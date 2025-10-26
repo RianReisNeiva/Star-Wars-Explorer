@@ -7,7 +7,7 @@ import FilmListPage from "../pages/films/FilmListPage";
 
 const FilmDetailPage = lazy(() => import("../pages/films/FilmDetailPage"));
 const CharacterDetailPage = lazy(
-  () => import("../pages/characters/characterDetailPage")
+  () => import("../pages/characters/CharacterDetailPage")
 );
 
 const FilmFallback = (
